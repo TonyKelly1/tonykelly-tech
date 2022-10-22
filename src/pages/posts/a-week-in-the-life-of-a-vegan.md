@@ -40,7 +40,7 @@ Blueberry pancakes with maple syrup. Who knew flax seed could replace eggs? Oat 
 Make a little bit extra of the brown rice and stir fry from the night before and you’ve got yourself a lunch as well.
 
 ### Dinner
-Boiled potatoes, broccoli, green beans, carrots, parsnips and turnip (mashing the latter 3 together with some vegan butter and salt takes me back to my granny’s kitchen many moons ago – I think / hope I picked up some of my cooking skills there).
+Boiled potatoes, broccoli, green beans, carrots, parsnips and turnip (mashing the latter 3 together with some vegan butter and salt takes me back to my granny’s kitchen many moons ago – I think / hope I picked up some of my cooking skills there)..
 
 ## Wednesday
 ### Breakfast
