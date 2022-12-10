@@ -9,8 +9,8 @@ interface MarkdownFrontmatter {
   date: number;
 }
 
-const title = 'The Running Veggie';
-const description = 'An ultramarthon blog';
+const title = 'tony kelly';
+const description = 'saas marketer - website builder - digital leader - tinkerer';
 const seoDescription = 'Creek is a theme for Astro static site generator';
 
 const allPosts = await Astro.glob<MarkdownFrontmatter>('./posts/*.md');
@@ -26,9 +26,18 @@ const sortedPosts = allPosts.sort((a, b) => new Date(b.pubDate) - new Date(a.pub
 <body class="bg-white text-black font-body leading-normal personality-casual">
   <Nav />
 
+
   <main class="py-12 lg:py-20">
     <article class="max-w-6xl mx-auto px-3">
       <HomeHeader title={title} description={description} />
+          <div class="mx-auto max-w-xl  content">
+          <section class="flex space-x-8 text-xl pt-8">
+            <p>
+              I'm a marketer with experience in SEO, B2B SAAS, paid advertising, digital strategy, and building websites. This is my personal blog where I write about my marketing journey and share hints and tips about strategies, tools, and processes that have helped me along the way. 
+            </p>
+          </section>
+          </div>
+          <h2 class="text-3xl mt-16">Latest posts</h2>
       <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 py-8" data-test="articles-section">
         {sortedPosts.map(p => <div class="col-span-1">
           <Card post={p} />
@@ -36,6 +45,7 @@ const sortedPosts = allPosts.sort((a, b) => new Date(b.pubDate) - new Date(a.pub
       </section>
     </article>
   </main>
+
 
   <section class="flex space-x-8 justify-center text-xl pt-8 font-bold">
     <a href="/posts" class="mr-8" data-test="see-all-link">
