@@ -1,14 +1,14 @@
 ---
-title: "100 miles isn't that far, is it?"
+title: "Migrating to Google Analytics 4"
 description: "Planning for a 100 mile ultramarathon."
 slug: "100-miles-isnt-that-far-is-it"
 pubDate: "2021-24-11"
-hero: "/images/eagles-rock.jpg"
+hero: "/images/migrating-to-google-analytics-4.png"
 tags: ["ultramarathon"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 
-Sometimes you just need to bite the bullet and jump.
+Sometimes you just need to bite the bullet and jump. Test
 
 I’ve been toying with the idea of entering an Ultra marathon race for over a year. I’d planned to run a 50 miler in 2021, but a few injuries and the arrival of baby Shea put those plans back a little.
 
