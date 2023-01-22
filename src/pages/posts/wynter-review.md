@@ -27,7 +27,7 @@ The ICPs I mentioned in the question above are a good match for generic landing 
 
 On a recent call with Peep I posed these questions. Wynter's audience team will screen and attempt to reach new or granular audiences if it matches your use case. There's some common sense caveats. For example, if you're planning to run a one-time test with a very granular audience it's going to be an unreasonable ask to Wynter to run a recruitment project for that audience. However, if you plan to use that audience several times through the year and your signing up for an annual subscription, then a quick chat with Wynter will help scope things out.
 
-## How long will it take to get feedback?
+### How long will it take to get feedback?
 Wynter suggests that feedback will be with you within 1 to 3 days. This was the one claim that really grabbed my attention and also raised some scepticism. 
 
 I've been involved in message testing and user testing in the past when the recruitment process, interviewing, and feedback gathering has taken weeks (at best) and sometimes months. As marketers, we've all had that conversation with other teams about wanting to speak to customers but the barriers start to go up - their account has a support ticket, they've churned, or they're in the early stages of purchasing a new product or renewing. To my mind, some of these scenarios are the perfect time to speak with customers but I get the reasons why it sometimes can't happen.
@@ -36,7 +36,7 @@ After a frustrating few weeks getting a shortlist together the recruitment begin
 
 For my pilot campaign I ran a test with 15 panellists and within 24 hours all feedback was completed. Another big hurdle cleared and a significant pain point from previous experience resolved.
 
-## What will the quality of feedback be like?
+### What will the quality of feedback be like?
 One of those questions that you won't really get a feel for until you've ran a test. Yes, there are lots of reviews you can read through but until you put your messaging in front of your ICP (or run one of Wynter's other tests) it's a natural instinct to think that you may be the 'special case' who it won't work for.
 
 Having ran a recent pilot campaign I would rate the quality of feedback as good to excellent. Some panellists will go into more details than others, which is what you would expect, but you want to find those patterns that come through across multiple participants.
