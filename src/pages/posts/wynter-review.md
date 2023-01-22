@@ -8,8 +8,6 @@ tags: ["messaging"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 
-This will be a work-in-progress article for the next few weeks. At the time of writing I am in the process of running a test on Wynter and will provide updates here on how things go.
-
 ## What is Wynter?
 [Wynter](https://wynter.com/) is a B2B message testing platform, founded by Peep Laja. The platform allows users to upload landing pages and email copy and get it in front of their ideal customer personas (ICPs). ICPs then provide feedback on the relevance, clarity, and overall effectiveness of your messaging, or choose which version of a landing page they prefer if you have uploaded several. Wynter also allows users to run surveys and user testing with their ICP. 
 
@@ -36,39 +34,13 @@ I've been involved in message testing and user testing in the past when the recr
 
 After a frustrating few weeks getting a shortlist together the recruitment begins. 1 out of 50 of your emails gets a reply. More frustration. Timezone conflicts with researchers having to run interviews at weird times in the morning or evening. Getting agreement on incentives and signed off by legal and finance - isn't this bribery? In a nutshell, it can be a lot of work to get things lined up and customers to agree to talk to you when running tests in-house.
 
-For my pilot campaign I ran a test with 15 panellists and within 24 hours all feedback was completed. When you add to this the fact that it took around 1 day to get the project setup (we used a pre-set list of questions from Wynter) after we had finalised our messaging and design, I was astounded. It was a genuine 'Holy shit' moment when I logged into our account and saw that feedback was completed. 
+For my pilot campaign I ran a test with 15 panellists and within 24 hours all feedback was completed. Another big hurdle cleared and a significant pain point from previous experience resolved.
 
-### Saving time
-Sourcing your own customers or prospects, getting approval from Sales to speak with them, facilitating the interview or feedback process, is a labor-intensive and time consuming process.
+## What will the quality of feedback be like?
+One of those questions that you won't really get a feel for until you've ran a test. Yes, there are lots of reviews you can read through but until you put your messaging in front of your ICP (or run one of Wynter's other tests) it's a natural instinct to think that you may be the 'special case' who it won't work for.
 
-At the very best you're looking at least a few weeks to get everything lined up, possibly even a month or 2 depending on how helpful your Sales team are and how willing customers are to get involved. I speak from experience when I say it will always take longer than you think to get everyone on board.
+Having ran a recent pilot campaign I would rate the quality of feedback as good to excellent. Some panellists will go into more details than others, which is what you would expect, but you want to find those patterns that come through across multiple participants.
 
-Wynter provide you with an audience. You can target by job title and level of seniority, and the spread of job titles is quite impressive. Time saver number one - you don't need to worry about lining up customers or prospects.
-
-Time saver number 2 is the process of gathering feedback. You can provide a link to, or upload a screenshot of, your new page and compile questions to ask your target audience. You will then receive feedback within 24 to 72 hours.
-
-Getting feedback within a few days vs potentially a few months is a bit of a no brainer.
-
-### Accessing a solution-unaware audience
-As Wynter sources your audience from their own pool of reviewers, there's a high probability that at least some (if not the majority) of people in the audience will not have heard of your product or solution.
-
-I feel that this group will provide more of an acid test regarding your messaging and whether it resonates with them. There is no internal bias or pre-conceived opinions that you may get from an audience that is exclusively made up of existing customers, especially if  they are cherry-picked because of good relations with Sales or Account Managers.
-
-If someone encounters the brand, product and messaging for the first time, and their initial reaction is 'I have no idea what this thing does', I'd rather know that than not.
-
-### Price
-As I haven't completed my initial test I can't comment too much on the quality or return on investment just yet. However, a one-off test will typically cost between $900 - $1,500. The price reduces significantly if you sign up for ongoing testing credits.
-
-If you're running message testing with existing customers you will typically end up incentivising them to do so. If you're compensating 10 to 15 reviewers at $50-100 per person, you won't be long racking up a similar cost overhead.
-
-## Cons of Wynter
-I will wait for the test to complete before commenting on any cons - the experience has been a positive one on the whole, so far.
-
-## When to run message testing?
-You don't need to run message testing on every page of your website. There's a few obvious starting points - your homepage and key product or solutions pages. 
-
-Let your data guide you on this one. If you have pages on your site with conversion potential and good levels of traffic, they will typically be good candidates to run message testing on.
-
-Like most things in marketing, this shouldn't be a one-and-done exercise either. Things change - the market you operate in, customer perceptions, new competitors enter the market, new categories and sub-categories appear, a global pandemic, or a recession. All of these things can have an impact on your business and what worked last month may not work now. 
+There was one moment when reviewing the feedback that stood out for me and cemented in my mind that we had reached a relevant audience. It was a straightforward comment. Something along the lines of, 'Oh, we were talking about our current setup in the office today. I hadn't heard of your tool but will definitely be taking a look later this week.' That's a darn good ICP match in anyone's book. While it isn't the objective to reach a solution-aware audience (problem-aware will be the sweet spot for most), it's definitely a benefit. 
 
 ## Conclusion
