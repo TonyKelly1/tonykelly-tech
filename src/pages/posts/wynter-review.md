@@ -11,15 +11,32 @@ layout: "../../layouts/BlogPostLayout.astro"
 This will be a work-in-progress article for the next few weeks. At the time of writing I am in the process of running a test on Wynter and will provide updates here on how things go.
 
 ## What is Wynter?
-Wynter is a B2B message testing platform, founded by Peep Laja. There are several ways to structure your message test on Wynter. The test I am running is a straightforward one:
-- We have written content for and designed a new homepage
-- We want to get our new messaging in front of our target audience before releasing it into the wild
-- The feedback we get from the test will allow us to get a grasp on what resonates with our audience or what needs clarified further
+[Wynter](https://wynter.com/) is a B2B message testing platform, founded by Peep Laja. The platform allows users to upload landing pages and email copy and get it in front of their ideal customer personas (ICPs). ICPs then provide feedback on the relevance, clarity, and overall effectiveness of your messaging, or choose which version of a landing page they prefer if you have uploaded several. Wynter also allows users to run surveys and user testing with their ICP. 
 
-## Pros of Wynter
-Any time you can speak with, or get feedback from, your target audience should be considered a very worthwhile exercise.
+## Choosing an ICP
+ICPs are grouped by level of seniority. You can choose from specialist, mid-level, and senior leadership audiences. Each level has a range of categories and job titles to choose from.
 
-In terms of setting the test up, the key benefits are:
+## Questions and doubts I had when considering Wynter
+I've followed Peep for a while and his landing page breakdowns on social media using real feedback from Wynter panellists are some of my favourite things to stumble upon. Nonetheless, there are always doubts and questions when considering any platform. Here's a few that went through my mind and what I've discovered since.
+
+### Will they be able to source my target ICP?
+Not to be Captain Obvious here, but this will very much depend on who your ICP is. For my use case I needed to match DevOps specialists, DevOps managers, and senior decision makers such as CTOs or CIOs. Happy to report there were no issues matching those ICPs.
+
+If you have a more niche audience in mind it may be a little trickier to find an immediate match. Which leads me onto my next question.
+
+### What if I wish to target a more granular audience?
+The ICPs I mentioned in the question above are a good match for generic landing pages, such as a homepage. But what if we wanted to go a little deeper? Could we find DevOps specialists who used Kubernetes for example? 
+
+On a recent call with Peep I posed these questions. Wynter's audience team will screen and attempt to reach new or granular audiences if it matches your use case. There's some common sense caveats. For example, if you're planning to run a one-time test with a very granular audience it's going to be an unreasonable ask to Wynter to run a recruitment project for that audience. However, if you plan to use that audience several times through the year and your signing up for an annual subscription, then a quick chat with Wynter will help scope things out.
+
+## How long will it take to get feedback?
+Wynter suggests that feedback will be with you within 1 to 3 days. This was the one claim that really grabbed my attention and also raised some scepticism. 
+
+I've been involved in message testing and user testing in the past when the recruitment process, interviewing, and feedback gathering has taken weeks (at best) and sometimes months. As marketers, we've all had that conversation with other teams about wanting to speak to customers but the barriers start to go up - their account has a support ticket, they've churned, or they're in the early stages of purchasing a new product or renewing. To my mind, some of these scenarios are the perfect time to speak with customers but I get the reasons why it sometimes can't happen.
+
+After a frustrating few weeks getting a shortlist together the recruitment begins. 1 out of 50 of your emails gets a reply. More frustration. Timezone conflicts with researchers having to run interviews at weird times in the morning or evening. Getting agreement on incentives and signed off by legal and finance - isn't this bribery? In a nutshell, it can be a lot of work to get things lined up and customers to agree to talk to you when running tests in-house.
+
+For my pilot campaign I ran a test with 15 panellists and within 24 hours all feedback was completed. When you add to this the fact that it took around 1 day to get the project setup (we used a pre-set list of questions from Wynter) after we had finalised our messaging and design, I was astounded. It was a genuine 'Holy shit' moment when I logged into our account and saw that feedback was completed. 
 
 ### Saving time
 Sourcing your own customers or prospects, getting approval from Sales to speak with them, facilitating the interview or feedback process, is a labor-intensive and time consuming process.
