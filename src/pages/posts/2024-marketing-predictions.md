@@ -3,7 +3,7 @@ title: "Marketing predictions for 2024"
 pubDate: "2024-01-01"
 slug: "2024-marketing-predictions"
 description: "My marketing advice for the year ahead and some predictions around trends I think will start to evolve over the next year."
-hero: "/images/wynter-review.png"
+hero: "/images/2024-marketing-predictions.png"
 tags: ["marketing"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
