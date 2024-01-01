@@ -84,7 +84,7 @@ In 2023 Google and Yahoo announced a raft of compliance changes that are coming 
 - Reducing SPAM and maintaining a spam complaint rate under 0.3%
 - Allowing people to unsubscribe by clicking just one link
 
-(This article)[https://postmarkapp.com/blog/2024-gmail-yahoo-email-requirements] from Postmark provides a good summary of all changes you can expect to see.
+[This article](https://postmarkapp.com/blog/2024-gmail-yahoo-email-requirements) from Postmark provides a good summary of all changes you can expect to see.
 
 What does this mean for your email marketing?
 
@@ -114,7 +114,7 @@ To level set, there are plenty of efficiency gains to be made from the plethora 
 
 Where we start blurring the lines and issues start arising is when AI becomes the creator and humans are entirely removed from the process. 
 
-People who are using AI as an integral part of their content strategy to beef up their output are already seeing their content (and overall website performance) being hammered by search engines, despite some (initial success)[https://www.linkedin.com/posts/markseo_google-on-ai-content-back-from-whence-you-activity-7142848812275961857-jmji?utm_source=share&utm_medium=member_desktop]. 
+People who are using AI as an integral part of their content strategy to beef up their output are already seeing their content (and overall website performance) being hammered by search engines, despite some [initial success](https://www.linkedin.com/posts/markseo_google-on-ai-content-back-from-whence-you-activity-7142848812275961857-jmji?utm_source=share&utm_medium=member_desktop). 
 
 Images and videos created from AI are also set to become the new stock images for many websites. Like stock images, they quickly grow tired and don’t resonate with people who land on your website. The fact that many AI-generated images feature people with 6 fingers or 3 eyes should also be a bit of a red flag. 
 
